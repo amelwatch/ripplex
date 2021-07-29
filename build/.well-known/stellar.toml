@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+"GAJZSTE2FTUMRVZ43N53SRFQRQ5I57NVNT6HS7VC32XEVP3FTODUL2TO"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="RippleX"
+ORG_URL="https://ripplex.io/"
+ORG_DESCRIPTION="RippleX is Ripple’s initiative to create an open developer platform for money. Ripple builds software for financial institutions to enable frictionless cross-border payments. RippleX supports the core technologies that power Ripple’s solutions and provides tools, services, and programs to developers."
+ORG_TWITTER="@Ripple"
+ORG_LOGO="https://i.ibb.co/nz8dQ1v/rippleX.png"
+ORG_OFFICIAL_EMAIL="support@ripplex.io"
 
 
 [[CURRENCIES]]
-code="EmeraldGem"
-issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+code="RippleX"
+issuer="GAJZSTE2FTUMRVZ43N53SRFQRQ5I57NVNT6HS7VC32XEVP3FTODUL2TO"
 anchor_asset="false"
-name="Emerald Gem"
-desc="When it comes to rare and expensive gemstones, most of us immediately think of diamonds, but, in fact, emeralds are more than 20 times rarer than diamonds and, therefore, often command a higher price."
-conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
-image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
+name="RippleX"
+desc="RippleX is Ripple’s initiative to create an open developer platform for money. Ripple builds software for financial institutions to enable frictionless cross-border payments. RippleX supports the core technologies that power Ripple’s solutions and provides tools, services, and programs to developers."
+conditions="Don't forget to follow us on Twitter where we distribute RippleX tokens each week"
+image="https://i.ibb.co/nz8dQ1v/rippleX.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#EmeraldGem was issued using the open and inclusive Stellar blockchain network.
+#RippleX was issued using the open and inclusive Stellar blockchain network.
